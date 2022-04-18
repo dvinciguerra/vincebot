@@ -1,0 +1,2 @@
+app: jekyll server
+sass: bundle exec sass --watch assets/_scss/application.scss:assets/css/application.css 
